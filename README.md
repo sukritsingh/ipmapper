@@ -16,8 +16,8 @@ Free to use and download. Please use with attribution/linking.
 ## How to prep IP addresses
 For now the `create-map.py` script is expecting a simple txt file that can be
 loaded via `numpy.loadtxt`. This text file should just be a list of all IP
-addresses of interest, each on their own line. A sample .txt file and output
-are in the `test/` directory.
+addresses of interest, each on their own line. A sample output
+are in the `test/` directory. For security reasons, a test-ip file will be included later.
 
 ## Usage of run script
 `python ipmapper/ipmapper/run/create-map.py test-ips.txt`
