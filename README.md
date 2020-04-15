@@ -3,6 +3,8 @@ A library to create maps based on a list of IP addresses
 
 ### Contact Sukrit (sukritsingh92@gmail.com) for questions/ideas!
 
+![Sample map](ipmapper/test/map-image.png)
+
 ## Dependencies
 This whole repository is intended to be lightweight, but there are some critical
 dependences. In particular, the python libraries needed are:
